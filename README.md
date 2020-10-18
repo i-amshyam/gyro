@@ -1,2 +1,1 @@
-# java
-java codes
+basic java code!
